@@ -1,6 +1,6 @@
-# DataBrokerBLOCK
+# DataBroker blocklist
 
-DataBrokerBLOCK is a Pi-hole / DNS blocklist focused on data brokers and related tracking endpoints.
+DataBroker Blocklist is a Pi-hole / DNS blocklist focused on data brokers and related tracking endpoints.
 
 This project was created and is maintained by **seloc0des** for the open source Pi-hole community to help reduce data broker collection and enrichment by blocking known domains.
 

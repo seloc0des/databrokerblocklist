@@ -7,6 +7,7 @@ the news of featured Urban VPN caught stealing data and AI usage history from it
 submissions and compiled those data brokers to this list as well. Cutting off direct routes to the data brokers themselves.
 
 https://www.techzine.eu/news/security/137399/ai-conversations-of-8-million-users-leaked-via-browser-extensions/
+
 https://www.csoonline.com/article/4106949/featured-urban-vpn-caught-stealing-private-ai-chats.html
 
 "Urban VPN's latest news reveals serious privacy concerns: since July 2025, the Urban VPN Proxy browser extension has been secretly harvesting users' AI chatbot conversations from platforms like ChatGPT, Claude, Gemini, and Microsoft Copilot. This data collection occurs even when VPN features are disabled, and the captured sensitive AI interactions are sent to Urban VPN's servers and shared or sold to third-party data brokers affiliated with Urban Cyber Security Inc. and BiScience. The extension automatically updated without notifying users, putting millions of AI chat users at risk of their conversations being exposed.

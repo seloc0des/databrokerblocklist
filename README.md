@@ -42,12 +42,10 @@ Pi-hole can consume this format as an adlist.
 
 ### Add the adlist
 
-1. Host this repo on GitHub.
-2. In Pi-hole, go to **Group Management** -> **Adlists**.
-3. Add the *raw* URL to the list file, for example:
+1. Add the *raw* URL to the list file, to your pi-hole configuration:
 
 ```
-https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/lists/databroker.txt
+https://raw.githubusercontent.com/seloc0des/databrokerblocklist/refs/heads/main/lists/databroker.txt
 ```
 
 4. Click **Add**.

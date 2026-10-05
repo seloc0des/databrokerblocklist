@@ -800,11 +800,6 @@
 0.0.0.0 yankeegroup.com
 0.0.0.0 zabasearch.com
 0.0.0.0 zoominfo.com
-# ============================================================
-# DataBrokerBLOCK merged additions - 2026-10-05
-# 279 unique domains / 558 hosts entries
-# ============================================================
-
 0.0.0.0 01advertising.com
 0.0.0.0 www.01advertising.com
 0.0.0.0 33across.com
@@ -1363,13 +1358,6 @@
 0.0.0.0 www.zetaglobal.com
 0.0.0.0 zlookup.com
 0.0.0.0 www.zlookup.com
-
-# ============================================================
-# DataBrokerBLOCK - broker infrastructure / endpoint pass
-# Researched 2026-10-05
-# ADDITIONAL to previous merged additions
-# ============================================================
-
 0.0.0.0 1plusx.com
 0.0.0.0 www.1plusx.com
 0.0.0.0 1plusx.io
@@ -1378,8 +1366,6 @@
 0.0.0.0 www.3lift.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 eb2.3lift.com
-
-# TransUnion / Neustar
 0.0.0.0 agkn.com
 0.0.0.0 www.agkn.com
 0.0.0.0 aa.agkn.com
@@ -1395,8 +1381,6 @@
 0.0.0.0 www.script.ag
 0.0.0.0 signal.co
 0.0.0.0 www.signal.co
-
-# LiveRamp
 0.0.0.0 acuity-data.com
 0.0.0.0 www.acuity-data.com
 0.0.0.0 arbor.io
@@ -1415,14 +1399,10 @@
 0.0.0.0 api.rlcdn.com
 0.0.0.0 id.rlcdn.com
 0.0.0.0 check.analytics.rlcdn.com
-
-# Acxiom
 0.0.0.0 acxiom-online.com
 0.0.0.0 www.acxiom-online.com
 0.0.0.0 acxiomapac.com
 0.0.0.0 www.acxiomapac.com
-
-# Epsilon / Conversant
 0.0.0.0 anrdoezrs.net
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 awltovhc.com
@@ -1469,8 +1449,6 @@
 0.0.0.0 www.tqlkg.com
 0.0.0.0 yceml.net
 0.0.0.0 www.yceml.net
-
-# Experian secondary infrastructure
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 www.experianmarketingservices.digital
 0.0.0.0 experianmatch.info
@@ -1479,8 +1457,6 @@
 0.0.0.0 www.expn.digital
 0.0.0.0 globalsiteanalytics.com
 0.0.0.0 www.globalsiteanalytics.com
-
-# comScore
 0.0.0.0 mdotlabs.com
 0.0.0.0 www.mdotlabs.com
 0.0.0.0 measuread.com
@@ -1491,8 +1467,6 @@
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 zqtk.net
 0.0.0.0 www.zqtk.net
-
-# Quantcast
 0.0.0.0 apextag.com
 0.0.0.0 www.apextag.com
 0.0.0.0 quantcount.com
@@ -1503,8 +1477,6 @@
 0.0.0.0 secure.quantserve.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 pixel.quantserve.com
-
-# Nielsen
 0.0.0.0 adtwenty.com
 0.0.0.0 www.adtwenty.com
 0.0.0.0 exelate.com
@@ -1526,16 +1498,12 @@
 0.0.0.0 www.visualiq.com
 0.0.0.0 vtwenty.com
 0.0.0.0 www.vtwenty.com
-
-# Lotame
 0.0.0.0 crwdcntrl.net
 0.0.0.0 www.crwdcntrl.net
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 id.crwdcntrl.net
 0.0.0.0 bcp.crwdcntrl.net
-
-# Criteo
 0.0.0.0 criteo.net
 0.0.0.0 www.criteo.net
 0.0.0.0 static.criteo.net
@@ -1552,8 +1520,6 @@
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 rtb.fr3.eu.criteo.com
 0.0.0.0 cat.nl3.eu.criteo.com
-
-# ID5 identity syncing
 0.0.0.0 id5-sync.com
 0.0.0.0 www.id5-sync.com
 0.0.0.0 eu-3-id5-sync.com
@@ -1562,8 +1528,6 @@
 0.0.0.0 www.eu-4-id5-sync.com
 0.0.0.0 d0.eu-3-id5-sync.com
 0.0.0.0 d0.eu-4-id5-sync.com
-
-# Magnite / Rubicon
 0.0.0.0 chango.com
 0.0.0.0 www.chango.com
 0.0.0.0 dpclk.com
@@ -1584,8 +1548,6 @@
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 sharedid.org
 0.0.0.0 www.sharedid.org
-
-# Sovrn
 0.0.0.0 lijit.com
 0.0.0.0 www.lijit.com
 0.0.0.0 ce.lijit.com
@@ -1601,50 +1563,31 @@
 0.0.0.0 www.sovrnlabs.net
 0.0.0.0 viglink.com
 0.0.0.0 www.viglink.com
-
-# Foursquare / Placed
 0.0.0.0 attribution.report
 0.0.0.0 www.attribution.report
 0.0.0.0 placed.com
 0.0.0.0 www.placed.com
-
-# Merkle
 0.0.0.0 merklesearch.com
 0.0.0.0 www.merklesearch.com
 0.0.0.0 rkdms.com
 0.0.0.0 www.rkdms.com
 0.0.0.0 mid.rkdms.com
-
-# 33Across
 0.0.0.0 tynt.com
 0.0.0.0 www.tynt.com
 0.0.0.0 ic.tynt.com
-
-# Bombora
 0.0.0.0 ml314.com
 0.0.0.0 www.ml314.com
 0.0.0.0 vi.ml314.com
-
-# Demandbase
 0.0.0.0 company-target.com
 0.0.0.0 www.company-target.com
 0.0.0.0 s.company-target.com
-
-# Dstillery
 0.0.0.0 media6degrees.com
 0.0.0.0 www.media6degrees.com
 0.0.0.0 action.media6degrees.com
-
-# Semasio
 0.0.0.0 semasio.net
 0.0.0.0 www.semasio.net
-0.0.0.0 uipglob.semasio.net
-
-# TripleLift
 0.0.0.0 opecloud.com
 0.0.0.0 www.opecloud.com
-
-# OpenX
 0.0.0.0 deliverimp.com
 0.0.0.0 www.deliverimp.com
 0.0.0.0 jump-time.net
@@ -1677,8 +1620,6 @@
 0.0.0.0 u.openx.net
 0.0.0.0 eu-u.openx.net
 0.0.0.0 us-u.openx.net
-
-# Index Exchange
 0.0.0.0 casalemedia.com
 0.0.0.0 www.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
@@ -1689,8 +1630,6 @@
 0.0.0.0 indexww.com
 0.0.0.0 www.indexww.com
 0.0.0.0 js-sec.indexww.com
-
-# Outbrain
 0.0.0.0 content-recommendation.net
 0.0.0.0 www.content-recommendation.net
 0.0.0.0 ligadx.com
@@ -1711,8 +1650,6 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 mv.outbrain.com
 0.0.0.0 widget-pixels.outbrain.com
-
-# Taboola
 0.0.0.0 api-taboola.com
 0.0.0.0 www.api-taboola.com
 0.0.0.0 admailtiser.com
@@ -1745,8 +1682,6 @@
 0.0.0.0 pips.taboola.com
 0.0.0.0 images.taboola.com
 0.0.0.0 am-trc-events.taboola.com
-
-# FreeWheel
 0.0.0.0 freewheel.tv
 0.0.0.0 www.freewheel.tv
 0.0.0.0 fwmrm.net
@@ -1754,8 +1689,6 @@
 0.0.0.0 dmp.v.fwmrm.net
 0.0.0.0 stickyadstv.com
 0.0.0.0 www.stickyadstv.com
-
-# Kargo
 0.0.0.0 adelaidelift.com
 0.0.0.0 www.adelaidelift.com
 0.0.0.0 adelaidemetrics.com
@@ -1769,19 +1702,13 @@
 0.0.0.0 stitcherads.com
 0.0.0.0 www.stitcherads.com
 0.0.0.0 standout-cdn.kargo.com
-
-# Blis
 0.0.0.0 blismedia.com
 0.0.0.0 www.blismedia.com
 0.0.0.0 tr.blismedia.com
-
-# Beeswax
 0.0.0.0 bidr.io
 0.0.0.0 www.bidr.io
 0.0.0.0 segment.prod.bidr.io
 0.0.0.0 match.prod.bidr.io
-
-# Oracle / BlueKai / AddThis / Moat
 0.0.0.0 addthis.com
 0.0.0.0 www.addthis.com
 0.0.0.0 addthiscdn.com
@@ -1816,15 +1743,11 @@
 0.0.0.0 www.oracleinfinity.io
 0.0.0.0 responsys.net
 0.0.0.0 www.responsys.net
-
-# Salesforce / Krux identity infrastructure
 0.0.0.0 krux.com
 0.0.0.0 www.krux.com
 0.0.0.0 krxd.net
 0.0.0.0 www.krxd.net
 0.0.0.0 usermatch.krxd.net
-
-# Location data / SDK infrastructure
 0.0.0.0 api.safegraph.com
 0.0.0.0 xmode.io
 0.0.0.0 www.xmode.io
@@ -1844,8 +1767,6 @@
 0.0.0.0 qbk1.com
 0.0.0.0 www.qbk1.com
 0.0.0.0 c2.qbk1.com
-
-# Kochava / Kochava Collective
 0.0.0.0 kochava.com
 0.0.0.0 www.kochava.com
 0.0.0.0 assets.kochava.com
